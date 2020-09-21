@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![TemporalData's github stats](https://github-readme-stats.vercel.app/api?username=TemporalData)](https://github.com/anuraghazra/github-readme-stats)
+[![TemporalData's github stats](https://github-readme-stats.vercel.app/api?username=TemporalData&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
