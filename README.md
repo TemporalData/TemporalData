@@ -3,7 +3,7 @@ Elements are from
 https://github.com/abhisheknaiidu/awesome-github-profile-readme
 -->
 
-Software engineer following the latest developments in cognitive research to integrate into advanced software solutions that enhance the knowledge based workplace.
+Machine learning engineer following the latest developments to integrate into advanced software solutions.
 
 <!--
 **TemporalData/TemporalData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
